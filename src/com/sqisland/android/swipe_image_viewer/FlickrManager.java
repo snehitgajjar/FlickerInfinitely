@@ -34,7 +34,7 @@ public class FlickrManager {
 
 	/**
 	 * 
-	 * @param searchPattern tag for photo search
+	 * @param searchPattern tag for photo search in flickr
 	 * @param limit number of photo in one request
 	 * @return returns string of one photo randomly selected
 	 * @throws IOException Throws exception if i/o operation is not valid
